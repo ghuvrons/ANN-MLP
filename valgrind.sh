@@ -1,0 +1,1 @@
+gcc -g ANN/*.c main.c -o main -lm && valgrind --leak-check=full --show-leak-kinds=all ./main

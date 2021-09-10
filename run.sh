@@ -1,0 +1,1 @@
+gcc -g ANN/*.c main.c -o main -lm && ./main 

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ann_def.h": "c",
+        "stdlib.h": "c"
+    }
+}
